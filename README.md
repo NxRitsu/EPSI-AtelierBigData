@@ -21,7 +21,7 @@ Ce projet utilise PySpark pour analyser des jeux de données.
 
 # TP 1
 
-Ce TP a été fait sur Google collab, il y a donc juste a importer le fichier TP1.ipynb dans Google Collab.
+Ce TP a été fait sur Google collab, il y a donc juste a importer le fichier TP1.ipynb dans Google Collab ainsi que le jeu de données suivant : https://www.kaggle.com/datasets/subhajournal/movie-rating. 
 
 ## Fonctionnalités
 
